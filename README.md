@@ -1,5 +1,5 @@
 # <span style="color:red">The TJX Companies, Inc.
-[!(Learnmore.png)](https://www.tjx.com/company/about-tjx)  
+[![TJX](Learnmore.png)](https://www.tjx.com/company/about-tjx)  
 ![TJBrands](TJBrands.png)
 
 ## Overview and Origin 
